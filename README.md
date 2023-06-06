@@ -1,3 +1,3 @@
 # forking-lesson
 
-Sample lesson
+Sample project.

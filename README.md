@@ -1,3 +1,3 @@
 # forking-lesson
 
-Sample project.
+Sample project in order to learn git.
